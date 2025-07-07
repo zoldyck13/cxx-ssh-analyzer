@@ -47,3 +47,25 @@ username and measure the response time.
 | -i | IP address of the SSH server    |
 | -p | Port (default: 22)     |
 | -u    | File containing usernames (one per line)   |
+
+### 📊  Output(CSV format)
+Results will be saved to timings.csv:
+```
+Username,ResonseTime
+root,0.5419
+admin,0.3212
+user,0.2999
+```
+
+---
+
+## ⚠️ Legal Disclaimer
+This tool is provided for educational purposes only.
+Unauthorized access to computer systems is illegal.
+Use only on systems you own or have permission to test.
+
+## ⭐  If you like this project, consider starring it!
+```
+git clone https://github.com/zoldyck13/cxx-ssh-analyzer.git
+cd ssh-enum
+make
