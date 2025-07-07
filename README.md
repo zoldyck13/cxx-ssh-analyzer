@@ -25,3 +25,12 @@ You need to have libssh2 installed. On Debian/Ubuntu:
 
 ```bash
 sudo apt install libssh2-1-dev
+```
+Then build:
+```bash
+make
+```
+Or manually:
+```bash
+g++ src/ssh_enum.cpp -o ssh_enum -lssh2
+```
