@@ -1,4 +1,4 @@
-# 🛡️ SSH Timing Enumeration Tool — Developed by Ali Zoldyck
+# 🛡️ SSH Timing Enumeration Tool 
 
 This is a lightweight C++ tool that measures SSH login response times for various usernames in order to detect potentially valid users on a target SSH server.
 
