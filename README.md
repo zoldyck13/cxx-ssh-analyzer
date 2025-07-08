@@ -69,3 +69,11 @@ Use only on systems you own or have permission to test.
 git clone https://github.com/zoldyck13/cxx-ssh-analyzer.git
 cd ssh-enum
 make
+
+
+
+## Licnese
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
